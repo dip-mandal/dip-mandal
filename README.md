@@ -60,6 +60,8 @@ class QuantumDeveloper:
 developer = QuantumDeveloper()
 ```
 
+<br clear="both"/>
+
 ---
 
 ## 🛠 Tech Stack & Tools
