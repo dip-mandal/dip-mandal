@@ -1,48 +1,63 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dip%20Mandal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Builder%20%7C%20DSA%20Enthusiast&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Dip%20Mandal&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Builder%20%7C%20DSA%20Enthusiast&descAlignY=55&descColor=a78bfa&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer+%7C+FastAPI+%26+Flask;🤖+AI+Voice+Assistant+Builder;🧠+DSA+Specialist+in+C+%26+C%2B%2B;🌐+Building+Scalable+Full-Stack+Apps;🎯+GATE+2027+%7C+Backend+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%9A%80+Backend+Developer+%7C+FastAPI+%26+Flask;%F0%9F%A4%96+AI+Voice+Assistant+Builder;%F0%9F%A7%A0+DSA+Specialist+in+C+%26+C%2B%2B;%F0%9F%8C%90+Building+Scalable+Full-Stack+Apps;%F0%9F%8E%AF+GATE+2027+%7C+Backend+Engineering+Roles;%E2%98%95+Linux+Enthusiast+%7C+Clean+Code+Advocate" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=dipmandal&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/dipmandal?label=Followers&style=for-the-badge&color=7c3aed" />
-
-<a href="https://www.linkedin.com/in/dip-mandal-351356288">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:dm9475511@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dm9475511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://portfolio.meixup.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<p>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=dipmandal&label=Profile+Views&color=7c3aed&style=for-the-badge&base=1000" /></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/dipmandal?label=Followers&style=for-the-badge&color=7c3aed&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/dip-mandal-351356288"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dm9475511@gmail.com"><img src="https://img.shields.io/badge/Email-dm9475511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio.meixup.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+</p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 ## 🧬 About Me
 
+<div align="center">
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM3cWp5dzJmNHl2ZThnb2J3ZjB1d3VpbmE2dGZ2dndscWQ1M2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+</div>
+
 ```python
-class DipMandal:
-    name        = "Dip Mandal"
-    role        = "Backend-Focused Software Developer"
-    degree      = "B.Tech CSE (Data Science)"
-    location    = "India 🇮🇳"
-    languages   = ["C", "C++", "Python", "JavaScript"]
-    backend     = ["FastAPI", "Flask", "REST APIs", "JWT Auth", "SQLAlchemy"]
-    frontend    = ["React", "HTML5", "CSS3"]
-    databases   = ["MySQL", "PostgreSQL", "MongoDB"]
-    devops      = ["Git", "Linux", "Docker", "Render", "Vercel", "Railway"]
-    passions    = ["Clean Code", "Scalable Systems", "AI Tools", "DSA"]
-    currently   = "Cracking GATE 2027 + Landing Backend Roles"
-    fun_fact    = "I debug faster on Linux ☕🐧"
+class QuantumDeveloper:
+    def __init__(self):
+        self.name = "Dip Mandal"
+        self.role = "⚡ Backend-Focused Developer"
+        self.degree = "🎓 B.Tech CSE (Data Science)"
+        self.location = "🌏 India"
+        self.mission = "Building scalable systems with clean code"
+        
+    def get_skills(self):
+        return {
+            "languages": ["C", "C++", "Python", "JavaScript"],
+            "backend": ["FastAPI", "Flask", "REST APIs", "JWT Auth"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+            "devops": ["Docker", "Linux", "Git", "Cloud Services"],
+            "ai_ml": ["Voice Assistants", "NLP Basics", "Data Analysis"]
+        }
+    
+    def current_focus(self):
+        return {
+            "🚀 GATE 2027": "85% completed",
+            "💼 Backend Roles": "Actively preparing",
+            "📚 System Design": "Learning phase",
+            "🎯 DSA Mastery": "500+ problems solved"
+        }
+
+developer = QuantumDeveloper()
 ```
 
 ---
