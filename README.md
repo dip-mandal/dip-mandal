@@ -29,21 +29,29 @@
 
 </div>
 
-- 🎓 B.Tech in Computer Science & Engineering (Data Science)
-- 
-- 🧠 Strong in DSA (C / C++)
-- 
-- ⚙ Backend Developer (FastAPI / Flask)
-- 
-- 🔐 Experience with JWT Authentication & REST API Design
-- 
-- 🌐 Building Full Stack Applications (React + FastAPI)
-- 
-- 🤖 Developed AI Voice Assistant with backend automation
-- 
-- 🐧 Linux-friendly & Deployment-focused
-- 
-- 🎯 Target: GATE 2027 + Backend Engineering Roles
+🎓 B.Tech CSE (Data Science) student with a strong analytical and problem-solving mindset
+
+💻 Backend-Focused Developer building scalable, maintainable, and production-ready systems
+
+🧠 Strong foundation in Data Structures & Algorithms (C / C++) with consistent competitive programming practice
+
+⚙️ Experienced in designing RESTful APIs using FastAPI & Flask with secure JWT-based authentication
+
+🗄 Skilled in database design, schema optimization, and working with MySQL, PostgreSQL & MongoDB
+
+🌐 Full-Stack Developer integrating React frontends with robust backend architectures
+
+🔐 Focused on clean architecture, modular code structure, and API performance optimization
+
+🤖 Built AI-powered tools including a Voice Assistant with backend automation & system-level integrations
+
+🐧 Linux-first workflow with hands-on deployment experience (Render, Vercel, Railway)
+
+📦 Comfortable with Git workflows, version control, and collaborative development
+
+📚 Currently learning scalable system design & backend performance engineering
+
+🚀 Preparing for GATE 2027 while targeting Backend Engineering roles
 
 <br clear="both"/>
 
