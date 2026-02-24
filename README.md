@@ -29,12 +29,14 @@
 
 </div>
 
-I’m Dip Mandal, a Backend-Focused Software Developer and B.Tech CSE (Data Science) student from India 🇮🇳
-
-I specialize in building scalable backend systems, AI-powered tools, and clean RESTful APIs.
-Strong foundation in Data Structures & Algorithms using C and C++.
-
-I enjoy designing efficient architectures, writing maintainable code, and solving real-world problems through technology.
+- 🎓 B.Tech in Computer Science & Engineering (Data Science)
+- 🧠 Strong in DSA (C / C++)
+- ⚙ Backend Developer (FastAPI / Flask)
+- 🔐 Experience with JWT Authentication & REST API Design
+- 🌐 Building Full Stack Applications (React + FastAPI)
+- 🤖 Developed AI Voice Assistant with backend automation
+- 🐧 Linux-friendly & Deployment-focused
+- 🎯 Target: GATE 2027 + Backend Engineering Roles
 
 <br clear="both"/>
 
