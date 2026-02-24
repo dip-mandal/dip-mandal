@@ -31,15 +31,15 @@
 
 </div>
 
-class QuantumDeveloper:
-    def __init__(self):
+    class QuantumDeveloper:
+      def __init__(self):
         self.name = "Dip Mandal"
         self.role = "⚡ Backend-Focused Developer"
         self.degree = "🎓 B.Tech CSE (Data Science)"
         self.location = "🌏 India"
         self.mission = "Building scalable systems with clean code"
         
-    def get_skills(self):
+      def get_skills(self):
         return {
             "languages": ["C", "C++", "Python", "JavaScript"],
             "backend": ["FastAPI", "Flask", "REST APIs", "JWT Auth"],
@@ -48,7 +48,7 @@ class QuantumDeveloper:
             "ai_ml": ["Voice Assistants", "NLP Basics", "Data Analysis"]
         }
     
-    def current_focus(self):
+      def current_focus(self):
         return {
             "🚀 GATE 2027": "85% completed",
             "💼 Backend Roles": "Actively preparing",
