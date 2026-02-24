@@ -159,7 +159,7 @@
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dip-mandal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dip-mandal&theme=tokyonight" />
 
 </div>
 
