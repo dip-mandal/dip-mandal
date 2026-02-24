@@ -31,7 +31,6 @@
 
 </div>
 
-```python
 class QuantumDeveloper:
     def __init__(self):
         self.name = "Dip Mandal"
@@ -58,7 +57,7 @@ class QuantumDeveloper:
         }
 
 developer = QuantumDeveloper()
-```
+
 
 <br clear="both"/>
 
