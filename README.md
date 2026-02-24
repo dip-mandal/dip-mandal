@@ -154,12 +154,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipmandal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipmandal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dip-mandal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dip-mandal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipmandal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dip-mandal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -168,7 +168,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dipmandal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dip-mandal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -176,7 +176,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=dipmandal&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=dip-mandal&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
