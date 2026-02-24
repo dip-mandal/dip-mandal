@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/dip-mandal-351356288"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dm9475511@gmail.com"><img src="https://img.shields.io/badge/Email-dm9475511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio.meixup.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://github.com/dip-mandal/my_portfolio/blob/main/DIP_MANDAL_CV_G1.pdf"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 </div>
