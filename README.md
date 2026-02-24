@@ -30,12 +30,19 @@
 </div>
 
 - 🎓 B.Tech in Computer Science & Engineering (Data Science)
+- 
 - 🧠 Strong in DSA (C / C++)
+- 
 - ⚙ Backend Developer (FastAPI / Flask)
+- 
 - 🔐 Experience with JWT Authentication & REST API Design
+- 
 - 🌐 Building Full Stack Applications (React + FastAPI)
+- 
 - 🤖 Developed AI Voice Assistant with backend automation
+- 
 - 🐧 Linux-friendly & Deployment-focused
+- 
 - 🎯 Target: GATE 2027 + Backend Engineering Roles
 
 <br clear="both"/>
