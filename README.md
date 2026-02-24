@@ -31,33 +31,12 @@
 
 </div>
 
-    class QuantumDeveloper:
-      def __init__(self):
-        self.name = "Dip Mandal"
-        self.role = "⚡ Backend-Focused Developer"
-        self.degree = "🎓 B.Tech CSE (Data Science)"
-        self.location = "🌏 India"
-        self.mission = "Building scalable systems with clean code"
-        
-      def get_skills(self):
-        return {
-            "languages": ["C", "C++", "Python", "JavaScript"],
-            "backend": ["FastAPI", "Flask", "REST APIs", "JWT Auth"],
-            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-            "devops": ["Docker", "Linux", "Git", "Cloud Services"],
-            "ai_ml": ["Voice Assistants", "NLP Basics", "Data Analysis"]
-        }
-    
-      def current_focus(self):
-        return {
-            "🚀 GATE 2027": "85% completed",
-            "💼 Backend Roles": "Actively preparing",
-            "📚 System Design": "Learning phase",
-            "🎯 DSA Mastery": "500+ problems solved"
-        }
+I’m Dip Mandal, a Backend-Focused Software Developer and B.Tech CSE (Data Science) student from India 🇮🇳
 
-developer = QuantumDeveloper()
+I specialize in building scalable backend systems, AI-powered tools, and clean RESTful APIs.
+Strong foundation in Data Structures & Algorithms using C and C++.
 
+I enjoy designing efficient architectures, writing maintainable code, and solving real-world problems through technology.
 
 <br clear="both"/>
 
